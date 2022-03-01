@@ -9,8 +9,6 @@ public class Mascota {
 	public Date fechaNacimiento = null; 
 	public String DNIDueño = null;
 
-	public String prueba = null;
-	
 	public Mascota() {
 		super();
 	}
